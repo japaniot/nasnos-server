@@ -1,0 +1,18 @@
+{
+  "name": "nasnos-server",
+  "version": "0.0.1",
+  "main": "lib/index.js",
+  "keywords": [
+    "iot",
+    "nasnos"
+  ],
+  "licenses": [
+    {
+      "name": "cc by-nc-sa 4.0",
+      "url": "http://creativecommons.org/licenses/by-nc-sa/4.0/"
+    }
+  ],
+  "dependencies": {
+    "default-gateway": "5.0.2"
+  }
+}
